@@ -7,4 +7,4 @@
 
 ## UI
 ### Mobile, IPad and Desktop
-<img src="Protfolio.PNG" alt="image" />
+<img src="https://app.netlify.com/sites/protfolio-shani-levi/overview" alt="image" />
