@@ -10,7 +10,7 @@ const Footer = () => {
         />
       </a>
       <a
-        href="www.linkedin.com/in/shanilevi"
+        href="https://www.linkedin.com/in/shani-levi-244455209/"
         target="_blank"
       >
         <img

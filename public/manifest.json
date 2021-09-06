@@ -1,19 +1,19 @@
 {
   "short_name": "Portfolio",
-  "name": "Create Portfolio Sample",
+  "name": "Create Portfolio with react libery",
   "icons": [
     {
-      "src": "Dwinatech-brand.png",
+      "src": "logo.jpg",
       "sizes": "64x64 32x32 24x24 16x16",
       "type": "image/x-icon"
     },
     {
-      "src": "Dwinatech-brand.png",
+      "src": "logo.jpg",
       "type": "image/png",
       "sizes": "192x192"
     },
     {
-      "src": "Dwinatech-brand.png",
+      "src": "logo.jpg",
       "type": "image/png",
       "sizes": "512x512"
     }

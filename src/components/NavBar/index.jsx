@@ -48,7 +48,7 @@ const NavBar = () => {
             }}
           />
           <img
-            src={require('../../assets/x.png')}
+            src="https://simg.nicepng.com/png/small/242-2425648_close-remove-delete-exit-cross-cancel-trash-comments.png" //{require('../../assets/x.png')}
             alt="Menu cross"
             style={{ opacity: open ? 1 : 0 }}
             onClick={() => {
