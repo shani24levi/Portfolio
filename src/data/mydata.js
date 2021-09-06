@@ -52,42 +52,40 @@ const skillsBar = [
 
 const projects = [
   {
-    // Add image in './styles/images.css' in #project1
-    id: "project1",
+    id: "Petwalk",
     image: "petwalk.png",
     name: "Pet Walk",
     skills: ["React Hooks,HTML, CSS, JS"],
-    faClass:["fab fa-html5","fab fa-js", "fab fa-react","fab fa-css3"],
+    faClass:["fab fa-html5","fab fa-js", "fab fa-react","fab fa-css3","fab fa-node"],
     using: "Using server with Nodejs and dogs-API ",
     url: "https://petwalkapp.netlify.app/",
     github: "https://github.com/shani24levi/pet_walk_client/tree/master/client_react"
   },
   {
-    // Add image in './styles/images.css' in #project2
-    id: "project2",
-    image: "",
-    name: "Project 2",
-    skills: ["HTML, CSS, JS"],
-    url: "https://github.com/kaustubhai",
-    github: ""
+    id: "WelcomeHome",
+    name: "Welcome Home",
+    skills: ["React Commponenete, Redux, HTML, CSS, JS"],
+    faClass:["fab fa-html5","fab fa-js", "fab fa-react","fab fa-css3"],
+    using: "Using Google Maps API & Redux",
+    url: "https://still-escarpment-98700.herokuapp.com/",
+    github: "https://github.com/shani24levi/WelcomeHome-RecatClassComponnents"
   },
   {
-    // Add image in './styles/images.css' in #project3
-    id: "project3",
-    image: "",
-    name: "Project 3",
-    skills: ["HTML, CSS, JS"],
-    url: "https://github.com/kaustubhai",
-    github: ""
+    id: "Brazil",
+    name: "Brazil",
+    skills: ["HTML, CSS, JS, JQ"],
+    faClass:["fab fa-html5","fab fa-js", "fab fa-sass","fab fa-css3", "fab fa-bootstrap"],
+    url: "https://eloquent-hodgkin-ed1e81.netlify.app",
+    github: "https://github.com/shani24levi/BrazilApp"
   },
   {
-    // Add image in './styles/images.css' in #project4
-    id: "project4",
-    image: "",
-    name: "Project 4",
-    skills: ["HTML, CSS, JS"],
-    url: "https://github.com/kaustubhai",
-    github: ""
+    id: "FooDelicious",
+    name: "FooDelicious",
+    skills: ["React-Nairiv android app"],
+    faClass:["fab fa-react"],
+    using: "Using Expo",
+    url: "#",
+    github: "https://github.com/shani24levi/Mobile_Apps_React-Native/tree/master/food_app_final"
   },
   {
     // Add image in './styles/images.css' in #project5

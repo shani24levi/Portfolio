@@ -10,7 +10,7 @@ const About = () => {
 
       <div className="row d-flex justify-content-center">
         {projects && projects.map((x) =>
-          <Project key={x.id} id={x.id} url={x.url} name={x.name} skills={x.skills} faClass={x.faClass} github={x.github}/>
+          <Project key={x.id} id={x.id} url={x.url} name={x.name} skills={x.skills} faClass={x.faClass} github={x.github} using={x.using}/>
         )}
       </div>
     </div>

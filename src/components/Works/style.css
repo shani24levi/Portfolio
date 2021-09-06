@@ -7,20 +7,20 @@
 }
 
 /* Projects Photo */
-.project1{
+.Petwalk{
   background-image: url(../../assets/petwalk.PNG);
   cursor: none;    
 }
-.project2{
-  background-image: url('https://via.placeholder.com/400x600.png?text=Project+two');
+.WelcomeHome{
+  background-image: url(../../assets/welcom.PNG);
   cursor: none;
 }
-.project3{
-  background-image: url('https://via.placeholder.com/400x600.png?text=Project+three');
+.Brazil{
+  background-image: url(../../assets/brazil.PNG);
   cursor: none;
 }
-.project4{
-  background-image: url('https://via.placeholder.com/400x600.png?text=Project+four');
+.FooDelicious{
+  background-image: url(../../assets/food2.PNG);
   cursor: none;
 }
 .project5{
