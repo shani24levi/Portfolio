@@ -5,7 +5,7 @@ import "./style.css";
 const Home = () => {
 
   const handleClickUrl = () => {
-    window.open("https://drive.google.com/file/d/15lst8uq55QVgawbpHJk8WyCp_u0YLAzS/view");
+    window.open("https://drive.google.com/file/d/1woPvKReN8Kzw0I4SZ1svM7Mrj6twgusD/view");
   };
 
   return (
