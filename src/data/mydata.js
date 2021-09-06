@@ -50,7 +50,68 @@ const skillsBar = [
     },
 ];
 
+const projects = [
+  {
+    // Add image in './styles/images.css' in #project1
+    id: "project1",
+    image: "petwalk.png",
+    name: "Pet Walk",
+    skills: ["React Hooks,HTML, CSS, JS"],
+    faClass:["fab fa-html5","fab fa-js", "fab fa-react","fab fa-css3"],
+    using: "Using server with Nodejs and dogs-API ",
+    url: "https://petwalkapp.netlify.app/",
+    github: "https://github.com/shani24levi/pet_walk_client/tree/master/client_react"
+  },
+  {
+    // Add image in './styles/images.css' in #project2
+    id: "project2",
+    image: "",
+    name: "Project 2",
+    skills: ["HTML, CSS, JS"],
+    url: "https://github.com/kaustubhai",
+    github: ""
+  },
+  {
+    // Add image in './styles/images.css' in #project3
+    id: "project3",
+    image: "",
+    name: "Project 3",
+    skills: ["HTML, CSS, JS"],
+    url: "https://github.com/kaustubhai",
+    github: ""
+  },
+  {
+    // Add image in './styles/images.css' in #project4
+    id: "project4",
+    image: "",
+    name: "Project 4",
+    skills: ["HTML, CSS, JS"],
+    url: "https://github.com/kaustubhai",
+    github: ""
+  },
+  {
+    // Add image in './styles/images.css' in #project5
+    id: "project5",
+    image: "",
+    name: "Project 5",
+    skills: ["HTML, CSS, JS"],
+    url: "https://github.com/kaustubhai",
+    github: ""
+  },
+  {
+    // Add image in './styles/images.css' in #project6
+    id: "project6",
+    image: "",
+    name: "Project 6",
+    skills: ["HTML, CSS, JS"],
+    url: "https://github.com/kaustubhai",
+    github: ""
+  },
+];
+
 
 export {
     skillsBar,
+    projects,
+    
 };

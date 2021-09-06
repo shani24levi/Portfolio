@@ -10,7 +10,7 @@ const About = () => {
         <div id="Skills">
           <div className="row d-flex justify-content-center" style={{padding: '3%'}}>
             {skillsBar.map((x) =>
-              <Skills key={x.name} faClass={x.faClass} svg={x.svg} label={x.name} />
+              <Skills key={x.name} faClass={x.faClass} svg={x.svg} label={x.name}/>
             )}̀
           </div>
         </div>

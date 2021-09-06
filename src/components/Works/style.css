@@ -5,3 +5,83 @@
 .works h1 {
   margin-bottom: 20px;
 }
+
+/* Projects Photo */
+.project1{
+  background-image: url(../../assets/petwalk.PNG);
+  cursor: none;    
+}
+.project2{
+  background-image: url('https://via.placeholder.com/400x600.png?text=Project+two');
+  cursor: none;
+}
+.project3{
+  background-image: url('https://via.placeholder.com/400x600.png?text=Project+three');
+  cursor: none;
+}
+.project4{
+  background-image: url('https://via.placeholder.com/400x600.png?text=Project+four');
+  cursor: none;
+}
+.project5{
+  background-image: url('https://via.placeholder.com/400x600.png?text=Project+five');
+  cursor: none;
+}
+.project6{
+  background-image: url('https://via.placeholder.com/400x600.png?text=Project+six');
+  cursor: none;
+}
+
+
+.third {
+  width: 75%;
+  margin: 10% auto;
+  align-items: center;
+  padding: 3%;
+  justify-content: center;
+}
+.project-card {
+  padding: 15px;
+  margin-top: 15px;
+  box-shadow: rgba(17, 12, 46, 0.15) 0 48px 100px 0;
+  border: 0.5px solid #eee;
+}
+.project-card h2 {
+  color: var(--primary-color);
+  margin-top: 10px;
+  margin-left: 3%;
+  font-weight: 500;
+}
+.project-card h2:hover {
+  color: var(--hover-color);
+  text-decoration: none;
+}
+.project-card h3 {
+  text-align: left;
+  font-size: 1rem;
+  margin-left: 3%;
+}
+.image-project {
+  height: 300px;
+  width: auto;
+  margin-bottom: 20px;
+  overflow: hidden;
+  cursor: pointer !important;
+}
+.img-pro {
+  height: 100%;
+  width: 100%;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  -webkit-transition: all 0.5s;
+  -moz-transition: all 0.5s;
+  -o-transition: all 0.5s;
+  transition: all 0.5s;
+}
+.image-project:hover .img-pro {
+  transform: scale(1.2);
+}
+.project-name {
+  text-decoration: none;
+}
