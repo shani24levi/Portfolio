@@ -48,14 +48,13 @@ const NavBar = () => {
             }}
           />
           <img
-            src="https://www.pngix.com/pngfile/middle/90-905356_close-svg-png-icon-free-download-icone-x.png"
+            src={require('../../assets/x.png')}
             alt="Menu cross"
             style={{ opacity: open ? 1 : 0 }}
             onClick={() => {
               setOpen(!open);
             }}
           />
-
           <ul style={{ left: open ? "0" : "-100vw" }}>
             <li>
               <Link

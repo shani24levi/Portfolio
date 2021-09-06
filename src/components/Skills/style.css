@@ -27,6 +27,34 @@
   margin-bottom: 10px;
 }
 
+.skill__square {
+  display: inline;
+  margin: 15px 0 !important;
+}
+.skill__square i {
+  font-size: 50px !important;
+  color: #777 !important;
+  height: 20px !important;
+}
+.skill__square svg {
+  width: 35px !important;
+  min-height: 20px !important;
+  padding: 0;
+  margin: 0;
+  color: #777 !important;
+}
+.skill__square h6 {
+  text-align: center;
+  margin: auto;
+  font-size: 1em;
+  padding-top: 5px;
+}
+.skill__square i:hover,
+.skill__square svg:hover {
+  color: #477eff !important;
+}
+
+
 @media (min-width: 800px) {
   .content {
     grid-template-columns: 1fr 1fr 1fr;

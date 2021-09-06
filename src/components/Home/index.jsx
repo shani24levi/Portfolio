@@ -10,7 +10,7 @@ const Home = () => {
 
   return (
     <div className="home">
-      <div style={{ position: 'absolute' }}>
+      <div style={{ position: 'absolute' , width:"100%" }}>
         <Particles
           height="100vh"
           width="100%"
@@ -53,7 +53,7 @@ const Home = () => {
           }} />
       </div>
 
-      <div className="title">
+      <div className="title" data-aos="fade-up" >
         <h1>
           <p>Helo,</p>
           <p>I am Shani</p>

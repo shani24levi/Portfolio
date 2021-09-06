@@ -1,10 +1,21 @@
 import "./style.css";
+import Skills from './Skills';
+import { skillsBar } from '../../data/mydata';
+import 'bootstrap/dist/css/bootstrap.min.css';
 
 const About = () => {
   return (
     <div className="skills">
       <h1>Skills</h1>
-      <div className="content">
+        <div id="Skills">
+          <div className="row d-flex justify-content-center" style={{padding: '3%'}}>
+            {skillsBar.map((x) =>
+              <Skills key={x.name} faClass={x.faClass} svg={x.svg} label={x.name} />
+            )}̀
+          </div>
+        </div>
+
+        <div className="content">
         <div>
           <strong>Languages:</strong>
           <li>CSS3</li>
@@ -26,7 +37,7 @@ const About = () => {
           <li>Git & Github</li>
         </div>
       </div>
-    </div>
+  </div>
   );
 };
 
