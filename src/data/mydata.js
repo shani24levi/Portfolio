@@ -88,23 +88,14 @@ const projects = [
     github: "https://github.com/shani24levi/Mobile_Apps_React-Native/tree/master/food_app_final"
   },
   {
-    // Add image in './styles/images.css' in #project5
     id: "project5",
     image: "",
     name: "Project 5",
     skills: ["HTML, CSS, JS"],
-    url: "https://github.com/kaustubhai",
+    url: "",
     github: ""
   },
-  {
-    // Add image in './styles/images.css' in #project6
-    id: "project6",
-    image: "",
-    name: "Project 6",
-    skills: ["HTML, CSS, JS"],
-    url: "https://github.com/kaustubhai",
-    github: ""
-  },
+
 ];
 
 
