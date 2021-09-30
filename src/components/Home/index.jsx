@@ -57,7 +57,7 @@ const Home = () => {
         <h1>
           <p>Helo,</p>
           <p>I am Shani</p>
-          <p>Jonier Software developer</p>
+          <p>Junior Software developer</p>
         </h1>
         <button onClick={handleClickUrl}>My Resume</button>
       </div>
