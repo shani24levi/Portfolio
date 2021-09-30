@@ -5,7 +5,7 @@ const About = () => {
         <div className="about">
             <h1>Bio</h1>
             <p>             
-                A fourth-year software engineering student at Shenkar College, in a flexible study program for working people, meaning I study one day a week, usually in the late afternoon.
+                A fourth-year software engineering student at Shenkar College, in a flexible study program for working people,Studying for 4 hours a week, in the evenings
             </p>
             <br/>
             <p>
