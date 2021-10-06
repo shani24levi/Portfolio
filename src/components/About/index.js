@@ -5,15 +5,17 @@ const About = () => {
         <div className="about">
             <h1>Bio</h1>
             <p>             
-                A fourth-year software engineering student at Shenkar College, in a flexible study program for working people,Studying for 4 hours a week, in the evenings
+            Graduated with a degree in software engineering with a specialization in web.
             </p>
             <br/>
             <p>
-            Enthusiastic about technology, High independent learning ability, highly motivated, goal-oriented, organized, and with excellent interpersonal skills           
+            I have a connection and affinity to the world of the web, High independent learning abilities, high attention to detail.
             </p>
             <br/>
             <p>
-            Looking for a job in web development Full-time or part-time.           
+            Driven by passion, ambition,
+            Can say about myself that I have a positive personality, enjoy challenges and problem solving.         
+            Proud to see results of successful projects.  
             </p>
         </div>
     )
