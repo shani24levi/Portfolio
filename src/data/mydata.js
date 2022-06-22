@@ -51,6 +51,16 @@ const skillsBar = [
 ];
 
 const projects = [
+    {
+        id: "sync",
+        image: "sync.png",
+        name: "Sync Along",
+        skills: ["React Hooks,Redux, Material UI, WebRTC, Socket.io, MediaPipe, Voice Recognition"],
+        faClass:["fab fa-html5","fab fa-js", "fab fa-react","fab fa-css3","fab fa-node","fab fa-aws", "fa-solid fa-camera-web"],
+        using: "Using server with Nodejs ,Express, Sockrt.io , AWS storg.",
+        url: "https://sync-along.netlify.app/",
+        github: "https://github.com/shani24levi/SyncAlong-FrontEnd"
+      },
   {
     id: "Petwalk",
     image: "petwalk.png",
@@ -88,10 +98,10 @@ const projects = [
     github: "https://github.com/shani24levi/Mobile_Apps_React-Native/tree/master/food_app_final"
   },
   {
-    id: "project5",
-    image: "",
-    name: "Project 5",
-    skills: ["HTML, CSS, JS"],
+    id: "soon",
+    image: "soon.png",
+    name: "Working on it, Coming soon...",
+    skills: ["React Hooks,Redux, Material UI, JS"],
     url: "",
     github: ""
   },

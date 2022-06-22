@@ -23,6 +23,14 @@
   background-image: url(../../assets/food2.PNG);
   cursor: none;
 }
+.sync{
+  background-image: url(../../assets/sync.png);
+  cursor: none;
+}
+.soon{
+  background-image: url(../../assets/soon.png);
+  cursor: none;
+}
 .project5{
   background-image: url('https://via.placeholder.com/400x600.png?text=Project+five');
   cursor: none;
