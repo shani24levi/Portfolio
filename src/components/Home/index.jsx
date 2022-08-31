@@ -10,7 +10,7 @@ const Home = () => {
 
   return (
     <div className="home">
-      <div style={{ position: 'absolute' , width:"100%" }}>
+      <div style={{ position: 'absolute', width: "100%" }}>
         <Particles
           height="100vh"
           width="100%"
@@ -57,13 +57,13 @@ const Home = () => {
         <h1>
           <p>Helo,</p>
           <p>I am Shani</p>
-          <p>Junior Software developer</p>
+          <p>Software developer</p>
         </h1>
         <button onClick={handleClickUrl}>My Resume</button>
       </div>
       <div className="person">
         <img
-          src={`${process.env.PUBLIC_URL}/me_1.png`}
+          src={`${process.env.PUBLIC_URL}/me_2.png`}
           alt="person picture"
         />
       </div>
